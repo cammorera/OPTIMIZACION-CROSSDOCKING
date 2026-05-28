@@ -1,0 +1,9 @@
+streamlit
+pyomo
+pandas
+numpy
+plotly
+openpyxl
+
+# Solver recomendado
+highspy
